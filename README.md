@@ -105,17 +105,14 @@ xmlns="http://www.w3.org/2000/svg" class="mx-auto">
 
 - ComicAR is an application that helps comic and manga readers to organize their collections.
 
+<p align="center">
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/1_home.gif"/>
+</p>
+
 ## Tech Stack
 
 <div align="center">
-<img width="70" src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/laravel.svg"/>
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original-wordmark.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />
-<img width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
-
+<img  src="https://skillicons.dev/icons?i=laravel,vue,tailwind,js,html,css,vite,github,php,mysql,figma,vscode"/>
 </div>
 
 ## Deployment
