@@ -109,6 +109,35 @@ xmlns="http://www.w3.org/2000/svg" class="mx-auto">
 <img src="https://github.com/prom97/comic-ar/blob/main/public/preview/1_home.gif"/>
 </p>
 
+<p align="center">The site offers registration and login so that users can manage their comics<br>
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/2_register.gif"/>
+</p>
+
+<p align="center">
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/3_login.gif"/>
+</p>
+
+<p align="center">You can view information for a specific edition<br>
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/4_edition.gif"/>
+</p>
+
+<p align="center">In addition to being able to review it<br>
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/5_review.gif"/>
+</p>
+
+<p align="center">View and share artwork<br>
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/6_artwork.gif"/>
+</p>
+
+<p align="center">Manage your "Comicteca"<br>
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/7_comicteca.gif"/>
+</p>
+
+<p align="center">
+Also allowing you to add volumes to your wish list, and many more functions!<br>
+<img src="https://github.com/prom97/comic-ar/blob/main/public/preview/8_wishlist.gif"/>
+</p>
+
 ## Tech Stack
 
 <div align="center">
