@@ -1,8 +1,6 @@
 <p align="center">
-<img width="700" src="https://github.com/prom97/comic-ar/blob/main/public/logo_comic-ar.svg"/>
+<img width="500" src="https://github.com/prom97/comic-ar/blob/main/public/logo_comic-ar.svg"/>
 </p>
-<br>
-
 ## Introduction
 
 - ComicAR is an application that helps comic and manga readers to organize their collections.
